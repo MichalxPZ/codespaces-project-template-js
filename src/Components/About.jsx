@@ -23,20 +23,18 @@ const imageAltText = "peaople climbing a mountain";
 /**
  * Sort description that expands on your title on the Home component.
  */
-const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
-
+const description = "I'm Michał Zieliński, a Fullstack Developer and tech enthusiast who started coding in high school. Pursuing my passion, I became an IT student at Poznan University of Technology. Joining AKAI, the university's research club, was a turning point. I led the mobile section and now proudly serve as the Chairman.\n\n\nBeing a Code Connector excites me the most - uniting people through shared goals in programming. AKAI Code, a hackathon I organized, brought together over 200 bright minds to tackle real-world challenges with technology.\n\n\nCurrently, I work as a Fullstack Developer at Beone, crafting efficient solutions for companies to manage and store their documents. The satisfaction of solving complex problems through programming is incomparable.\nBeyond coding, I'm a F1 and gym freak, a book lover, and an aspiring chef. Let's discuss exciting tech projects and ideas - I'm all ears!"
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Kotlin",
+  "Java",
+  "Spring Boot",
+  "Microservices",
+  "Android",
+  "Azure",
 ];
 
 /**
@@ -45,7 +43,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my development experience I continually look for new and better ways to make tech be the reason for change.";
 
 const About = () => {
   return (

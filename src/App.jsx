@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Michał Zieliński",
-  title: "IT student at PUT Poland | Chairman of AKAI | Fullstack Developer",
+  title: "Fullstack Developer | Student at PUT Poland | AKAI",
   email: "michauz2001@gmail.com",
   gitHub: "https://github.com/MichalxPZ",
   instagram: "https://www.instagram.com/michol5/",
