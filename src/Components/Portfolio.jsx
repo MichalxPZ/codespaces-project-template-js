@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/istockphoto-675825950-1024x1024.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "AKAI Camp 2023 - IT Conference for career startup",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "As a main coordinator I organised a conference focused on soft skills required by recruiters to start a job as a junior programmer. The conference was held at Poznań University of Technology for over 150 people",
+    url: "https://www.linkedin.com/feed/update/urn:li:activity:7124092006355656705/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "HackYeah - the biggest stationary hackathon in Europe",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Organised a group of research group students to attend a hackathon. One team won a first price in health category",
+    url: "https://www.linkedin.com/feed/update/urn:li:activity:7115061639871148032/",
   },
   {
-    title: "My Resume Site",
+    title: "AKAI Code 2022 - hackathon for students",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Event coordinator at AKAI Code - a hackathon at Poznań University of Technology for over 150 people",
+    url: "https://www.linkedin.com/feed/update/urn:li:activity:6995419235292221440/",
   },
 ];
 
